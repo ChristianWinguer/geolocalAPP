@@ -4,21 +4,21 @@ Este é um aplicativo simples que tem como objetivo registrar a localização at
 
 # Ferramentas Necessárias:
 
-@babel/core: ^7.20.0,
-@types/react: ~18.2.14,
-typescript": ^5.1.3
+- babel/core: ^7.20.0
+- types/react: ~18.2.14
+- typescript": ^5.1.3
 
-expo: ~49.0.12
-expo-status-bar: ~1.6.0,
-react: 18.2.0,
-react-native: 0.72.5,
-expo-location: ~16.1.0,
-react-native-maps: 1.7.1,
-Android studio
+- expo: ~49.0.12
+- expo-status-bar: ~1.6.0,
+- react: 18.2.0,
+- react-native: 0.72.5,
+- expo-location: ~16.1.0,
+- react-native-maps: 1.7.1,
+- Android studio
 
 # Como utilizar:
 
-start: expo start,
-android: expo start --android,
-ios: expo start --ios,
-web: expo start --web
+- start: expo start,
+- android: expo start --android,
+- ios: expo start --ios,
+- web: expo start --web
